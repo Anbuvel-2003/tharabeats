@@ -1,0 +1,19 @@
+{
+    "common": {
+        "home": "முகப்பு",
+        "users": "பயனர்கள்",
+        "devices": "சாதனங்கள்",
+        "profile": "சுயவிவரம்",
+        "settings": "அமைப்புகள்",
+        "nowPlaying": "இப்போது ஒலிக்கிறது",
+        "logout": "வெளியேறு",
+        "changeLanguage": "மொழியை மாற்று"
+    },
+    "home": {
+        "welcome": "Tharabeats-க்கு வரவேற்கிறோம்"
+    },
+    "profile": {
+        "title": "பயனர் சுயவிவரம்",
+        "orgSettings": "நிறுவன அமைப்புகள்"
+    }
+}

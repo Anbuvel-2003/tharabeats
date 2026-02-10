@@ -1,0 +1,19 @@
+{
+    "common": {
+        "home": "Home",
+        "users": "Users",
+        "devices": "Devices",
+        "profile": "Profile",
+        "settings": "Settings",
+        "nowPlaying": "Now Playing",
+        "logout": "Logout",
+        "changeLanguage": "Change Language"
+    },
+    "home": {
+        "welcome": "Welcome to Tharabeats"
+    },
+    "profile": {
+        "title": "User Profile",
+        "orgSettings": "Organization Settings"
+    }
+}
